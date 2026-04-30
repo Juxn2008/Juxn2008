@@ -41,10 +41,8 @@ Soy un apasionado **Tecnólogo en Desarrollo de Software** en formación por el 
   <img src="https://github-readme-stats.vercel.app/api?username=Juxn2008&show_icons=true&theme=tokyonight" alt="Estadísticas de Juan" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juxn2008&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
-## 📚 Actualmente aprendiendo (Learning)
-*   🇬🇧 **Inglés:** Mejorando mis habilidades de comunicación (English Does Work - Level 1).
-*   ⚙️ **Física Aplicada:** Estudiando cinemática y termodinámica para simulación de software.
-*   🏗️ **Arquitectura Backend:** Profundizando en estructuras de datos con **C++** y **Java**.
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Juan%20Daniel%20Conde&fontSize=70" />
-</p>
+## 📫 Contacto (Contact)
+Si quieres contactarme para proyectos o colaborar, puedes escribirme a:
+
+*   📧 **Email:** [juancode6@gmail.com]
+*   💼 **LinkedIn:** [Tu Perfil de LinkedIn]
