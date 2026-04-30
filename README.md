@@ -47,6 +47,8 @@ Soy un apasionado **Tecnólogo en Desarrollo de Software** en formación por el 
 *   📚 **En aprendizaje:** Inglés (Level 1) y Física aplicada al software.
 
 ---
+## 📬 Contacto (Contact)
+Si quieres contactarme para proyectos o colaborar, puedes escribirme a:
 <p align="left">
 
 <a href="mailto:juancode6@gmail.com" target="_blank">
@@ -60,7 +62,7 @@ Soy un apasionado **Tecnólogo en Desarrollo de Software** en formación por el 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 
 </a>
-
+* 📍 **Ubicación:** Cartagena, Colombia
 </p>
 
 ---
