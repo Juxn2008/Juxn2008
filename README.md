@@ -3,10 +3,10 @@
 ## 🚀 Sobre mí (About Me)
 Soy un apasionado **Tecnólogo en Desarrollo de Software** en formación por el **SENA** en Cartagena, Colombia. Mi enfoque principal es el **Desarrollo Backend**, donde disfruto resolviendo problemas lógicos y optimizando procesos mediante código limpio y eficiente.
 
-*   🎓 **Formación:** Tecnólogo en Desarrollo de Software - SENA.
-*   📍 **Ubicación:** Cartagena, Colombia.
-*   🌐 **Idiomas:** Español (Nativo) | Inglés (A1 - En aprendizaje activo).
-*   🎯 **Objetivo:** Aplicar mis conocimientos en Java y C++ para crear soluciones escalables.
+* 🎓 **Formación:** Tecnólogo en Desarrollo de Software - SENA.
+* 📍 **Ubicación:** Cartagena, Colombia.
+* 🌐 **Idiomas:** Español (Nativo) | Inglés (A1 - En aprendizaje activo).
+* 🎯 **Objetivo:** Aplicar mis conocimientos en Java y C++ para crear soluciones escalables.
 
 ---
 
@@ -28,35 +28,30 @@ Soy un apasionado **Tecnólogo en Desarrollo de Software** en formación por el 
 
 ## 📂 Proyectos Destacados (Featured Projects)
 
-*   🍦 **HENITY:** Sistema web para la gestión y venta de helados, incluyendo recolección de datos y diagramas de procesos.
-*   🍕 **Pizzeria Dauri:** Landing page interactiva con menús de navegación y elementos multimedia.
-*   💻 **C++ Logic Challenges:** Repositorio dedicado a la resolución de algoritmos y ejercicios de lógica de programación.
+* 🍦 **[HENITY](https://github.com/Juxn2008/HENITY):** Sistema web para la gestión y venta de helados, incluyendo recolección de datos y diagramas de procesos.
+* 🍕 **[Pizzeria Dauri](https://github.com/Juxn2008/Pizzeria-Dauri):** Landing page interactiva con menús de navegación y elementos multimedia.
+* 💻 **[C++ Logic Challenges](https://github.com/Juxn2008/C-plus-plus-Logic):** Repositorio dedicado a la resolución de algoritmos y ejercicios de lógica de programación en C++.
 
 ---
-
 
 ## 📊 Mis Estadísticas (My Stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juxn2008&show_icons=true&theme=tokyonight" alt="Estadísticas de Juan" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juxn2008&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
+
 ---
+
 ## 📬 Contacto (Contact)
 Si quieres contactarme para proyectos o colaborar, puedes escribirme a:
+
 <p align="left">
-
-<a href="mailto:juancode6@gmail.com" target="_blank">
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-
-</a>
-
-<a href="TU_LINK_DE_LINKEDIN_AQUI" target="_blank">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
-</a>
-
+  <a href="mailto:juancode6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="TU_LINK_DE_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
-##📍**Ubicación:** Cartagena, Colombia
----
+
+* 📍 **Ubicación:** Cartagena, Colombia
