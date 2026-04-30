@@ -34,8 +34,7 @@ Soy un apasionado **Tecnólogo en Desarrollo de Software** en formación por el 
 
 ---
 
-## 📫 Conecta conmigo (Connect with me)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUI)
+
 ## 📊 Mis Estadísticas (My Stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juxn2008&show_icons=true&theme=tokyonight" alt="Estadísticas de Juan" />
