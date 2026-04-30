@@ -40,12 +40,6 @@ Soy un apasionado **Tecnólogo en Desarrollo de Software** en formación por el 
   <img src="https://github-readme-stats.vercel.app/api?username=Juxn2008&show_icons=true&theme=tokyonight" alt="Estadísticas de Juan" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juxn2008&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
-### 🛠️ Tecnologías y Herramientas (Tech Stack)
-
-*   ☕ **Backend:** Java, C++, PHP, Python.
-*   🌐 **Frontend & DB:** HTML5, CSS3, JavaScript, MySQL.
-*   📚 **En aprendizaje:** Inglés (Level 1) y Física aplicada al software.
-
 ---
 ## 📬 Contacto (Contact)
 Si quieres contactarme para proyectos o colaborar, puedes escribirme a:
@@ -62,7 +56,7 @@ Si quieres contactarme para proyectos o colaborar, puedes escribirme a:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 
 </a>
-* 📍 **Ubicación:** Cartagena, Colombia
-</p>
 
+</p>
+##📍**Ubicación:** Cartagena, Colombia
 ---
