@@ -40,11 +40,10 @@ Soy un apasionado **Tecnólogo en Desarrollo de Software** en formación por el 
   <img src="https://github-readme-stats.vercel.app/api?username=Juxn2008&show_icons=true&theme=tokyonight" alt="Estadísticas de Juan" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juxn2008&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
-<p align="left">
-<a href="mailto:juancode6@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="TU_LINK_DE_LINKEDIN_AQUI" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
+### 📬 Contacto (Contact)
+
+*   📧 **Email:** [juancode6@gmail.com](mailto:juancode6@gmail.com)
+*   💼 **LinkedIn:** [Juan Daniel Conde Núñez](TU_LINK_DE_LINKEDIN_AQUI)
+*   📍 **Ubicación:** Cartagena, Colombia
+
+---
