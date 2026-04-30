@@ -36,3 +36,15 @@ Soy un apasionado **Tecnólogo en Desarrollo de Software** en formación por el 
 
 ## 📫 Conecta conmigo (Connect with me)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUI)
+## 📊 Mis Estadísticas (My Stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juxn2008&show_icons=true&theme=tokyonight" alt="Estadísticas de Juan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juxn2008&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
+## 📚 Actualmente aprendiendo (Learning)
+*   🇬🇧 **Inglés:** Mejorando mis habilidades de comunicación (English Does Work - Level 1).
+*   ⚙️ **Física Aplicada:** Estudiando cinemática y termodinámica para simulación de software.
+*   🏗️ **Arquitectura Backend:** Profundizando en estructuras de datos con **C++** y **Java**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Juan%20Daniel%20Conde&fontSize=70" />
+</p>
